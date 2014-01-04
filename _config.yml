@@ -2,6 +2,8 @@ name: Your New Jekyll Site
 author: Your name
 meta_description: Your site's default meta description
 
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'Rakefile']
+
 analytics:
   google:
     id:    UA-123456 # Your Google Analytics ID
